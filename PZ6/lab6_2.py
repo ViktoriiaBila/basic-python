@@ -69,5 +69,5 @@ def encode_morze(text):
     return (text_sd)
 
 
-print (encode_morze('Joric is a good bay!'))
+print (encode_morze('Joric is a good boy!'))
 
